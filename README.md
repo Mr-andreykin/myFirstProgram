@@ -1,2 +1,2 @@
 # myFirstProgram
-firstProgram
+firstPrograms
