@@ -1,2 +1,1 @@
-# myFirstProgram
-firstProgram
+Добавляю запись в readme.md
